@@ -1,0 +1,5 @@
+# 注意：torch / torchvision 请用 CUDA 版单独安装（见 README 第 2 步）
+# 不要在这里用 pip install -r 直接装 torch，否则可能装成 CPU 版
+ultralytics>=8.3.0
+opencv-python>=4.9.0
+numpy

@@ -1,0 +1,10 @@
+# 数据集与运行结果不上传
+datasets/
+runs/
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
