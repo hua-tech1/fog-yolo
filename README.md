@@ -95,6 +95,6 @@ motorcycle、bicycle 样本太少，数值参考意义不大。
 
 ## 参考
 
-- W. Liu et al., "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions", IEEE TPAMI, 2022.
+- W. Liu et al., "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions", AAAI TPAMI, 2022.
 - Hassaballah & Kenk, "DAWN: Vehicle Detection in Adverse Weather Nature", IEEE T-ITS, 2020.
 - He, Sun & Tang, "Single Image Haze Removal Using Dark Channel Prior", CVPR, 2009.
